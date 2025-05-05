@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 💬 About Me<br><br>- 🛠️ I’m currently working on a car recommendation system using Kafka & Spark  <br>- 🤝 I’m looking to collaborate on AI, Big Data, or ML projects  <br>- 🙋 I’m looking for help with deploying LLMs efficiently  <br>- 🌱 I’m currently learning LangChain and RAG  <br>- 💡 Ask me about Big Data pipelines or MLOps setups  <br>- ⚡ Fun fact: I love building useful tools that automate boring tasks
+## 💬 About Me<br><br>🔧 Building a car recommender with Kafka & Spark | Learning LangChain & RAG | Into Big Data, MLOps & AI tools that automate boring tasks
 
 
 ## 🌐 Socials:
