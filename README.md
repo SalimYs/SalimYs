@@ -13,3 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimYs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/SalimYs/SalimYs/output/snake.svg" alt="Snake animation" />
+
+###
