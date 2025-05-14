@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫💫 About Me:
 ## 💬 About Me<br><br>🔧 Building a car recommender with Kafka & Spark | Learning LangChain & RAG | Into Big Data, MLOps & AI tools that automate boring tasks
 
 
