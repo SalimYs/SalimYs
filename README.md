@@ -25,9 +25,9 @@ Building production-ready AI systems that solve real problems. Recently shipped 
 
 ## 🏆 Achievements & Leadership
 
-**Huawei Developer Competition 2025**: Top 9 Finalist and Team Leader for Team NeoGen. 
-**AIESEC**: International Relations Manager, overseeing global partnerships and logistics. 
-**Certifications**: Microsoft Azure Fundamentals (AZ-900), Building Agentic RAG, and MLOps Fundamentals. 
+- **Huawei Developer Competition 2025**: Top 9 Finalist and Team Leader for Team NeoGen. 
+- **AIESEC**: International Relations Manager, overseeing global partnerships and logistics. 
+- **Certifications**: Microsoft Azure Fundamentals (AZ-900), Building Agentic RAG, and MLOps Fundamentals. 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassir-salim-el-akramine/)
